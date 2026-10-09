@@ -1,0 +1,85 @@
+{
+  "gerado_em": "2026-10-09T20:39:54.534Z",
+  "modulos": {
+    "perguntas": {
+      "versao": "258362bdebbdeedf0d6e7969a0b82a0c",
+      "registros": 1273
+    },
+    "conexoes_grupos": {
+      "versao": "04cf4e0484718cc908ba8f9b1c03b048",
+      "registros": 39
+    },
+    "personagens": {
+      "versao": "13e4b8764e3a7da1de1577bda069b860",
+      "registros": 26
+    },
+    "nome_divino": {
+      "versao": "9b72d4236b5435bc9f36b65eabcfb4a9",
+      "registros": 203
+    },
+    "poesias": {
+      "versao": "bd0fefda61165097a9d34b45cfad4e34",
+      "registros": 38
+    },
+    "receitas": {
+      "versao": "b53666f7ba7856612434a43caa0514b7",
+      "registros": 4
+    },
+    "kits": {
+      "versao": "292ebcf9d3fcc02e5a947b45be2ccbef",
+      "registros": 6
+    },
+    "estoque_catalogo": {
+      "versao": "8a23515795270aeb52e4dac9dd12c308",
+      "registros": 32
+    },
+    "guias": {
+      "versao": "c7883b62a27acc0ce56664cffea805dd",
+      "registros": 15
+    },
+    "criacao_modulos": {
+      "versao": "e7d2a7c6b7d42fb01d6a18b0a2ec8306",
+      "registros": 63
+    },
+    "imite_cartoes": {
+      "versao": "e5d956cc3cf28cbdeaed1b54feb044f7",
+      "registros": 89
+    },
+    "principios": {
+      "versao": "008877b006040e4d027a74e7fc814559",
+      "registros": 112
+    },
+    "faq": {
+      "versao": "2898ad222a471efd5ee0380b41170016",
+      "registros": 63
+    },
+    "relatorio_mundial": {
+      "versao": "c2b8dafae880e7cfb7ac37393a7dc367",
+      "registros": 9
+    },
+    "relatorio_mundial_paises": {
+      "versao": "6a45e60ec5f2fb2c9e4f11f7183bbb2b",
+      "registros": 1868
+    },
+    "cronologia": {
+      "versao": "7d86a10736452dd29ad333d30bb349ce",
+      "registros": 630
+    },
+    "categorias": {
+      "versao": "63235e12781fb6226226a447cd77ec49",
+      "registros": 17
+    },
+    "anotacao_modelos": {
+      "versao": "8f8e0ff2855937b2b29ddff119476b98",
+      "registros": 7
+    },
+    "calendario_tipos": {
+      "versao": "4ab8f9fb1e61b65c8dfb2433c2279508",
+      "registros": 6
+    },
+    "tutorial": {
+      "versao": "3f2bf51836fa21a71c98ff6c4e6e1c5a",
+      "registros": 29
+    }
+  }
+}
